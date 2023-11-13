@@ -57,6 +57,10 @@ Bir dizinin tam olarak 25 çeşit olduğunu onaylayın. İşleviniz şunları ka
 
 
 function dizi25Cesitmi(/*kod buraya*/){
+
+
+
+  
   /*kod buraya*/
 }
 
